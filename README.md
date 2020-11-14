@@ -1,2 +1,2 @@
 # Junit
-This is my Junit Testing code/
+This is my Junit Testing code.
